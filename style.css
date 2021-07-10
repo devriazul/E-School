@@ -1,0 +1,59 @@
+.head-contain {
+    background-color: #F0FFF0;
+    max-width: 1440px;
+}
+
+.btn-success {
+    border-radius: 30px!important;
+}
+
+.card {
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #F8FFFB;
+    margin-top: 100px;
+    border-style: none!important;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px!important;
+}
+
+.feature-text {
+    text-align: center;
+    align-items: center;
+}
+
+.feature {
+    width: 100px!important;
+    height: 110px!important;
+}
+
+.container h3 {
+    text-align: center;
+    padding-top: 150px;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
+
+.testimonial {
+    padding-top: 70px;
+}
+
+.testimonial p {
+    padding-right: 30px
+}
+
+.footer-contain {
+    background-color: #282531;
+    color: white;
+    text-align: left;
+    padding: 50px;
+    margin-top: 50px;
+}
+
+footer {
+    text-align: center;
+    text-decoration: none!important;
+}
